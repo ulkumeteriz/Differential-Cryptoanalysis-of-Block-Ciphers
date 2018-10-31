@@ -1,0 +1,92 @@
+
+#### Undisturbed bits for SBox0 :
+Indexes of undisturbed bits for 0 input difference: 
+[0]
+Indexes of undisturbed bits for 1 input difference: 
+[1]
+Indexes of undisturbed bits for 4 input difference: 
+[3]
+Indexes of undisturbed bits for 8 input difference: 
+[1, 3]
+Indexes of undisturbed bits for 9 input difference: 
+[1]
+Indexes of undisturbed bits for 12 input difference: 
+[3]
+
+#### Undisturbed bits for SBox1 :
+Indexes of undisturbed bits for 0 input difference: 
+[0]
+Indexes of undisturbed bits for 4 input difference: 
+[1]
+Indexes of undisturbed bits for 8 input difference: 
+[1]
+Indexes of undisturbed bits for 12 input difference: 
+[1]
+
+#### Undisturbed bits for SBox2 :
+Indexes of undisturbed bits for 0 input difference: 
+[0]
+Indexes of undisturbed bits for 2 input difference: 
+[3]
+Indexes of undisturbed bits for 8 input difference: 
+[3]
+Indexes of undisturbed bits for 10 input difference: 
+[3]
+
+#### Undisturbed bits for SBox3 :
+Indexes of undisturbed bits for 0 input difference: 
+[0]
+Indexes of undisturbed bits for 1 input difference: 
+[2]
+Indexes of undisturbed bits for 2 input difference: 
+[2]
+Indexes of undisturbed bits for 3 input difference: 
+[2, 3]
+Indexes of undisturbed bits for 8 input difference: 
+[3]
+Indexes of undisturbed bits for 11 input difference: 
+[3]
+
+#### Undisturbed bits for SBox4 :
+Indexes of undisturbed bits for 0 input difference: 
+[0]
+Indexes of undisturbed bits for 8 input difference: 
+[1]
+Indexes of undisturbed bits for 9 input difference: 
+[1]
+
+#### Undisturbed bits for SBox5 :
+Indexes of undisturbed bits for 0 input difference: 
+[0]
+Indexes of undisturbed bits for 10 input difference: 
+[1]
+Indexes of undisturbed bits for 11 input difference: 
+[1]
+
+#### Undisturbed bits for SBox6 :
+Indexes of undisturbed bits for 0 input difference: 
+[0]
+Indexes of undisturbed bits for 2 input difference: 
+[2]
+Indexes of undisturbed bits for 4 input difference: 
+[2]
+Indexes of undisturbed bits for 6 input difference: 
+[2]
+
+#### Undisturbed bits for SBox7 :
+Indexes of undisturbed bits for 0 input difference: 
+[0]
+
+#### Undisturbed bits for SBox8 :
+Indexes of undisturbed bits for 0 input difference: 
+[0]
+Indexes of undisturbed bits for 1 input difference: 
+[1, 2]
+Indexes of undisturbed bits for 2 input difference: 
+[1]
+Indexes of undisturbed bits for 3 input difference: 
+[1]
+Indexes of undisturbed bits for 8 input difference: 
+[2]
+Indexes of undisturbed bits for 9 input difference: 
+[2]
