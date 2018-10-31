@@ -1,4 +1,4 @@
-#Differential Cryptoanalysis of S-Boxes in a Block Cipher
+# Differential Cryptoanalysis of S-Boxes in a Block Cipher
 
 **Prerequisites:** Python2 and MAKE
 
@@ -14,7 +14,7 @@ The python script has several capabilities:
 4. Finding differential factor lambda and invariant output difference mu values of S-Boxes and inverse S-Boxes.
 5. Creating linear approximation tables (LATs) and linear uniformity of S-Boxes.
 
-##Usage:
+## Usage:
 
 **To take the inverse of the given S-Boxes:**  
 >	$ make reverse
@@ -42,4 +42,4 @@ The python script has several capabilities:
 
 For example outputs, you can see txt files named DDT, reverseDDT, LAMBDAandMU, reverseLAMBDAandMU, UNDISTRIBUTED, LAT and reverseLAT.
 
-For more information about differential cryptoanalysis, its importance and use-cases, you can refer [here](https://en.wikipedia.org/wiki/Differential_cryptanalysis).
+_For more information about differential cryptoanalysis, its importance and use-cases, you can refer [here](https://en.wikipedia.org/wiki/Differential_cryptanalysis)._
